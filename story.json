@@ -1,0 +1,77 @@
+{
+  "theme": "Human Connection",
+  "emotion": "Hopeful",
+  "duration_seconds": 38,
+  "music_style": "Soft, ambient cinematic pads transitioning into an uplifting acoustic guitar melody with gentle strings.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "video_prompt": "Cinematic vertical 9:16, close-up, 4k. An elderly woman with silver hair looks out a window at a rainy park. Moody, blue-toned lighting. Her expression captures deep, quiet loneliness. Smooth slow-motion zoom on her reflective eyes. Photorealistic.",
+      "on_screen_text": "Forgotten by the world.",
+      "voiceover": {
+        "english": "She lived in a world where no one noticed her anymore.",
+        "telugu": "ఆమెను పట్టించుకునే వారు లేని లోకంలో ఆమె ఒంటరిగా మిగిలిపోయింది.",
+        "hindi": "वो एक ऐसी दुनिया में थी जहाँ अब कोई उसे नहीं देखता था।"
+      }
+    },
+    {
+      "scene_number": 2,
+      "video_prompt": "Vertical 9:16, extreme close-up. A rough, calloused hand in a work glove gently places a bright yellow daisy on a damp wooden park bench. Soft morning light, shallow depth of field. Water droplets on the flower petals glint. Cinematic 4k.",
+      "on_screen_text": "A secret gift every morning.",
+      "voiceover": {
+        "english": "But every dawn, a small miracle waited on her favorite bench.",
+        "telugu": "కానీ ప్రతి ఉదయం, ఆమె మెచ్చే బెంచ్ మీద ఒక చిన్న అద్భుతం వేచి ఉండేది.",
+        "hindi": "पर हर सुबह, उसकी पसंदीदा बेंच पर एक छोटा सा चमत्कार उसका इंतज़ार करता था।"
+      }
+    },
+    {
+      "scene_number": 3,
+      "video_prompt": "Vertical 9:16, medium shot. The woman finds the flower and holds it to her heart, a genuine smile breaking across her face. Realistic warm lighting contrasting the cool morning mist. Smooth gimbal movement following her as she looks around, curious.",
+      "on_screen_text": "Hope started to bloom.",
+      "voiceover": {
+        "english": "It wasn't just a flower. It was proof that someone cared.",
+        "telugu": "అది కేవలం పువ్వు మాత్రమే కాదు. తను ఎవరికో ఒకరికి గుర్తున్నానని చెప్పే సాక్ష్యం.",
+        "hindi": "ये सिर्फ एक फूल नहीं था। ये इस बात का सबूत था कि कोई उसका ख्याल रखता है।"
+      }
+    },
+    {
+      "scene_number": 4,
+      "video_prompt": "Vertical 9:16, wide shot. The woman hides behind a park tree, watching. A street cleaner in a neon vest, looking tired but kind, carefully cleans the area and then leaves a daisy. Atmospheric morning fog, realistic cinematic lighting. Smooth tracking shot.",
+      "on_screen_text": "The invisible hero revealed.",
+      "voiceover": {
+        "english": "She finally saw the person who had been keeping her soul alive.",
+        "telugu": "తన జీవితంలో వెలుగు నింపుతున్న ఆ అజ్ఞాత వ్యక్తిని ఆమె చివరకు చూసింది.",
+        "hindi": "आखिरकार उसने उस शख्स को देख लिया जो उसकी रूह को ज़िंदा रखे हुए था।"
+      }
+    },
+    {
+      "scene_number": 5,
+      "video_prompt": "Vertical 9:16, medium shot. The woman approaches the shy street cleaner. He stops, surprised. She gently wraps her own warm, woolen scarf around his neck. Expressive emotions, soft golden hour lighting. Close-up on their hands touching briefly. Photorealistic.",
+      "on_screen_text": "Kindness is a circle.",
+      "voiceover": {
+        "english": "Kindness doesn't need words. It just needs a heart that sees.",
+        "telugu": "మంచితనానికి మాటలు అక్కర్లేదు. ఎదుటివారి బాధను చూసే మనసు ఉంటే చాలు.",
+        "hindi": "नेकी को शब्दों की ज़रूरत नहीं होती। बस एक देखने वाले दिल की ज़रूरत होती है।"
+      }
+    },
+    {
+      "scene_number": 6,
+      "video_prompt": "Vertical 9:16, cinematic low-angle shot. The sun breaks through the clouds. The woman and the cleaner sit on the bench together, looking at the view. The yellow daisy sits between them. Epic, hopeful atmosphere. Camera pulls back slowly. 4k high quality.",
+      "on_screen_text": "You are never truly alone.",
+      "voiceover": {
+        "english": "You are never invisible to a heart that knows how to love. Spread hope.",
+        "telugu": "ప్రేమించే మనసు ఉన్నప్పుడు, మీరు ఎప్పుడూ ఒంటరి వారు కారు. ఆశను పంచండి.",
+        "hindi": "प्यार करने वाले दिल के लिए आप कभी ओझल नहीं होते। उमीद बांटते रहिए।"
+      }
+    }
+  ],
+  "instagram": {
+    "caption": "No one is ever truly invisible. 🌻 A simple flower and a warm scarf reminded two strangers that they matter. Be the reason someone smiles today. ❤️✨",
+    "hashtags": ["#HumanConnection", "#KindnessMatters", "#Inspiration", "#ShortStories", "#EmotionalReels", "#Hope", "#SpreadLove"]
+  },
+  "youtube": {
+    "title": "The Secret of the Yellow Daisy 🌻 | Heart touching AI Story",
+    "description": "A lonely woman, a street cleaner, and a daily gift. Watch how a silent act of kindness changed two lives forever. In a world full of noise, sometimes the quietest gestures speak the loudest. \n\nSubscribe for your daily dose of hope.",
+    "keywords": ["AI Emotional Shorts", "Short Story", "Inspirational Video", "Kindness", "Human Connection", "Cinematic Story", "Life Lesson"]
+  }
+}
