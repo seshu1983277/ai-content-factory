@@ -1,0 +1,13 @@
+diffusers
+transformers
+accelerate
+torch
+pillow
+requests
+opencv-python
+moviepy
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+ffmpeg-python
